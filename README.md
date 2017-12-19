@@ -5,4 +5,4 @@
 
 ## Exercícios por capítulo
 
-[Resposta - Cap-2.1](respCap2-1.md)
+[Resposta - Cap-2.1](respCap2-1.js)
