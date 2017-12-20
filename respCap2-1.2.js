@@ -1,6 +1,6 @@
 function fizzBuzz () {
-  for(let i = 0; i <= 100; i++) {
-    //  Solução 1 funcionando
+  //  Solução 1 funcionando
+//   for(let i = 0; i <= 100; i++) {
     // if (i % 3 === 0 && i % 5 === 0) {
     //   console.log('FizzBuzz ==> ' , i)
     // } else if (i % 3 === 0) {
